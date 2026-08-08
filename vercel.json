@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/index.html" }
+    { "source": "/", "destination": "/아리의타로점_폰용.html" }
   ]
 }
